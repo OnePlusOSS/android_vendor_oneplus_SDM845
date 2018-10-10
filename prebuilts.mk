@@ -522,7 +522,6 @@ PRODUCT_COPY_FILES += vendor/oneplus/vendor/etc/media_profiles.xml:vendor/etc/me
 PRODUCT_COPY_FILES += vendor/oneplus/vendor/etc/mixer_paths_i2s.xml:vendor/etc/mixer_paths_i2s.xml
 PRODUCT_COPY_FILES += vendor/oneplus/vendor/etc/mixer_paths_qvr.xml:vendor/etc/mixer_paths_qvr.xml
 PRODUCT_COPY_FILES += vendor/oneplus/vendor/etc/mixer_paths_skuk.xml:vendor/etc/mixer_paths_skuk.xml
-PRODUCT_COPY_FILES += vendor/oneplus/vendor/etc/mixer_paths_tavil.xml:vendor/etc/mixer_paths_tavil.xml
 PRODUCT_COPY_FILES += vendor/oneplus/vendor/etc/mkshrc:vendor/etc/mkshrc
 PRODUCT_COPY_FILES += vendor/oneplus/vendor/etc/msm_irqbalance.conf:vendor/etc/msm_irqbalance.conf
 PRODUCT_COPY_FILES += vendor/oneplus/vendor/etc/oneplus_ftm_test_max.wav:vendor/etc/oneplus_ftm_test_max.wav
